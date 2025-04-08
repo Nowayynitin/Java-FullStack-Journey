@@ -26,3 +26,10 @@ public class FirstProgram {
         System.out.print("My First Code");
     }
 }
+2️⃣ Print “Good Morning”
+class Morning {
+    public static void main(String[] args) {
+        System.out.print("Good Morning");
+    }
+}
+
