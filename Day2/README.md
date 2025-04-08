@@ -25,3 +25,43 @@ public class FirstProgram {
         System.out.print("My First Code");
     }
 }
+
+class Morning {
+    public static void main(String[] args) {
+        System.out.print("Good Morning");
+    }
+}
+
+class Subscribe {
+    public static void main(String[] args) {
+        System.out.println("Subscribe");
+    }
+}
+
+*
+* *
+* * *
+* * * *
+* * * * *
+
+class Pattern {
+    public static void main(String[] args) {
+        System.out.println("*");
+        System.out.println("* *");
+        System.out.println("* * *");
+        System.out.println("* * * *");
+        System.out.println("* * * * *");
+
+        System.out.println("* * * * *");
+        System.out.println("* * * *");
+        System.out.println("* * *");
+        System.out.println("* *");
+        System.out.println("*");
+
+        System.out.println("        *");
+        System.out.println("      * *");
+        System.out.println("    * * *");
+        System.out.println("  * * * *");
+        System.out.println("* * * * *");
+    }
+}
