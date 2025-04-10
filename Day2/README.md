@@ -26,10 +26,71 @@ public class FirstProgram {
         System.out.print("My First Code");
     }
 }
-2️⃣ Print “Good Morning”
+```
+### 2️⃣ Print “Good Morning”
+
+```java
 class Morning {
     public static void main(String[] args) {
         System.out.print("Good Morning");
     }
 }
+```
+### 3️⃣ IntelliJ Project – Print “Subscribe”
+
+```java
+class Subscribe {
+    public static void main(String[] args) {
+        System.out.println("Subscribe");
+    }
+}
+```
+### 4️⃣ Pattern Printing
+🔺 Increasing Triangle
+🔻 Decreasing Triangle
+🔷 Right-Aligned Triangle
+
+```java
+class Pattern {
+    public static void main(String[] args) {
+        System.out.println("*");
+        System.out.println("* *");
+        System.out.println("* * *");
+        System.out.println("* * * *");
+        System.out.println("* * * * *");
+
+        System.out.println("* * * * *");
+        System.out.println("* * * *");
+        System.out.println("* * *");
+        System.out.println("* *");
+        System.out.println("*");
+
+        System.out.println("        *");
+        System.out.println("      * *");
+        System.out.println("    * * *");
+        System.out.println("  * * * *");
+        System.out.println("* * * * *");
+    }
+}
+```
+---
+## 🧠 Summary
+- 🚀 Completed Java setup, first programs, and pattern printing
+- ✅ Gained confidence in compiling and structuring Java code
+- 💪 Ready for more challenges in Day 3!
+
+---
+## 📁 Files in This Folder
+- FirstProgram.java
+- Morning.java
+- Subscribe.java
+- Pattern.java
+
+
+
+
+
+
+
+
 
