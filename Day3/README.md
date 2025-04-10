@@ -1,18 +1,47 @@
-📅 Day 3 - Java Full Stack Journey
-What I Learned Today:
+# Java Full Stack Developer Journey 🌱
 
-Data Types: Deep dive into primitive and non-primitive types (int, float, double, String, etc.).
+Welcome to my **Java Full Stack Developer** journey! I'm documenting my progress as I learn Java from scratch and work my way through various programming challenges and concepts. This repository serves as a portfolio of my learning path, showcasing all the coding practices, projects, and challenges that I tackle along the way.  
 
-User Input: Used Scanner to get dynamic input from users.
+## 📅 **Day 3 - Java Basics** 🖥️
 
-Escape Sequences: Used escape sequences like \n and \t for better formatting in outputs.
+### **What I Learned:**
 
-Pattern Printing: Printed different patterns using loops and escape sequences.
+- **Data Types**:
+  - Explored **primitive** data types (int, float, double, boolean, char) and **non-primitive** types (String, Arrays).
+  - Learned how different data types affect memory usage and program performance.
 
-Challenges Completed:
+- **User Input**:
+  - Implemented the **Scanner class** to capture dynamic input from the user.
+  - Took input for different data types (strings, integers) and used them for calculations and string manipulations.
 
-Challenge 4: Printed patterns with * using escape sequences.
+- **Escape Sequences**:
+  - Used escape sequences (e.g., `\n`, `\t`) for formatting output and making it visually cleaner and more readable.
+  - Printed patterns and formatted user-friendly messages.
 
-Challenge 5: Inserted user name into a sentence dynamically.
+- **Pattern Printing**:
+  - Printed various patterns (e.g., increasing and decreasing triangles) using loops and escape sequences.
 
-Challenge 6: Added two numbers provided by the user and displayed the sum.
+---
+
+### **Completed Challenges:**
+
+1. **Challenge 4: Pattern Printing**  
+   - Printed patterns using `*` in different shapes (triangles, pyramids) with escape sequences.
+   - Example: 
+     ```java
+     System.out.println("*\n**\n***\n****\n*****");
+     ```
+
+2. **Challenge 5: Dynamic String Insertion**  
+   - Built a program that dynamically inserted user input into a string.  
+   - Example:  
+     ```java
+     System.out.println("Welcome " + name + " to IntelliJ");
+     ```
+
+3. **Challenge 6: Addition of Two Numbers**  
+   - Took two numbers as input and printed their sum.  
+   - Example:  
+     ```java
+     System.out.println("Sum of your Numbers is: " + sum);
+     ```
